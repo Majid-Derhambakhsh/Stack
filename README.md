@@ -1,4 +1,4 @@
-![Banner](Banner.jpg)
+![Banner](Logo.png)
 
 # Stack
 Educational Center Management Software
