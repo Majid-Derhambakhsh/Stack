@@ -29,8 +29,6 @@ Educational Center Management Software
     - #### and more features
 
 #### Download: 
-   [Stack (v1.0.0.0)](https://mega.nz/file/BAI0jSwZ#U1DxR4coMZ1dQjg9OfHIJkHHO6UYOa_6KaHugWo0rOU) 79.2MB  
-   [Stack - Without DotNet (v1.0.0.0)](https://mega.nz/file/4dhniJTR#gYkrVDuY3rc9eIW4C5D5dnVyLcZ-o3SRhNmXrhgS1TQ) 12.4MB  
     
    [Stack (v1.0.2.0)](https://mega.nz/file/5F5znBJB#U5ps3LhPV-80t8p14IeWsNAOx8rhzS8KVtydb2DAoIw) 79.3MB  
    [Stack - Without DotNet (v1.0.2.0)](https://mega.nz/file/sYgFzZYJ#X4eCsnekyDQN2R2zvqlMaEEWeswH8fCAovFtUnClO2k) 12.5MB  
